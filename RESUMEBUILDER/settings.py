@@ -25,8 +25,8 @@ SECRET_KEY = 'SECRET_KEY'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = ['*']
-ALLOWED_HOSTS = ['https://pythonappbyadi-b7fyb5e4ezbtbkcu.canadacentral-01.azurewebsites.net']
+ALLOWED_HOSTS = ['*']
+#ALLOWED_HOSTS = ['https://pythonappbyadi-b7fyb5e4ezbtbkcu.canadacentral-01.azurewebsites.net']
 
 CSRF_TRUSTED_ORIGINS = [
     'https://pythonappbyadi-b7fyb5e4ezbtbkcu.canadacentral-01.azurewebsites.net'
