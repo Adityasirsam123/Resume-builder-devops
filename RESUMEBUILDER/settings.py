@@ -26,6 +26,8 @@ SECRET_KEY = 'SECRET_KEY'
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['pythonappbyadi-b7fyb5e4ezbtbkcu.canadacentral-01.azurewebsites.net']
+
 
 
 # Application definition
